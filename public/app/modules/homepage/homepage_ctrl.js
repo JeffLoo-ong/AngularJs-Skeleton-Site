@@ -1,6 +1,6 @@
 
 /**
- * Sets the dashboard controller
+ * Sets the homepage controller
  * @function
  */
 // This is an IIFE to minimalize global carry over of items.
@@ -13,8 +13,8 @@
   //dashboardCtrl.$inject = [];
 
   /**
-   * Controller logic for dashboard sets value for patient list display (true or false)
-   * @function dashboardCtrl
+   * Controller logic for homepage sets value for patient list display (true or false)
+   * @function homepageCtrl
    * @param {object} $scope - application scope
    */
   function homepageCtrl() {
