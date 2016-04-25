@@ -13,8 +13,8 @@
 
   /**
    * Directive for the applicaiton's footer
-   * @function footerDir
-   * @returns {object} information necessary for footer's directive.
+   * @function homepageDir
+   * @returns {object} information necessary for homepage's directive.
    */
   function homepageDir() {
     return {
