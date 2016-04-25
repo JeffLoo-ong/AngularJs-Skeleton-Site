@@ -1,5 +1,5 @@
 /**
- * Creates footer module
+ * Creates homepage module
  * @function
  */
 // This is an IIFE to minimalize global carry over of items.
